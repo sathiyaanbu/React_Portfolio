@@ -1,0 +1,42 @@
+.skills-element {
+  width: 100%;
+  padding-top: 4vh;
+  padding-bottom: 7vh;
+  background-color: rgb(245, 164, 191);
+}
+.skills {
+  list-style-type: none;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  padding-right: 5%;
+  padding-left: 5%;
+  margin: 0 auto;
+  max-width: 600px;
+  color: #000000;
+}
+.skills li {
+  border: 2px solid #e3dcdc;
+  background-color: #fbfdfb;
+  color: #050505de;
+  width: 7.8em;
+  padding: 0.3em 0.2em;
+  margin: 0.3em;
+  font-weight: bold;
+}
+.skills-section p {
+  margin: 1em auto;
+  max-width: 600px;
+  padding: 0 5%;
+  color: white;
+}
+@media (min-width: 550px) {
+  .skills {
+    padding: 0;
+  }
+  .skills li {
+    width: 8em;
+    padding: 0.5em 0.7em;
+    margin: 0.4em;
+  }
+}

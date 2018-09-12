@@ -1,0 +1,18 @@
+import React, { Component } from "react";
+import "../style/SectionHeader.css";
+
+class SectionHeader extends Component {
+  render() {
+    return (
+      <h1
+        className={`section-header ${this.props.name} ${this.props.color} ${
+          this.props.underlineColor
+        }`}
+      >
+        {this.props.title}
+      </h1>
+    );
+  }
+}
+
+export default SectionHeader;
