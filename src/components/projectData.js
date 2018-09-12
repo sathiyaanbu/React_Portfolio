@@ -4,7 +4,7 @@ const projectInfo = [
     name: "How to be a finn",
     description:
       "How to Be a Finn is a fun and informative game that will guide the user(foreigners) about all the relevant stuff that need to know when they landing in Finland for the first time and how to cope with everyday life joyfully.",
-    imageURL: "../././public/images/htbaf.jpeg",
+    imageURL: "./images/htbaf.jpeg",
     altText: "Howtobeafinn",
     orientation: "portrait",
 
