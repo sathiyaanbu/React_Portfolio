@@ -15,7 +15,7 @@ const projectInfo = [
     id: 2,
     name: "Marketplace",
     description:
-      "OnervaPalvelut marketplace - Customers can order different services for the elders. React, Redux",
+      "OnervaPalvelut marketplace - Customers can order different services for the elders.Technology used -React, Redux, React-Router",
     imageURL: "./images/logo.png",
     altText: "OnervaPalvelut",
     orientation: "portrait",
@@ -41,7 +41,8 @@ const projectInfo = [
     imageURL: "./images/video-yt.jpg",
     altText: "YouTube video browser",
     orientation: "landscape",
-    github: "https://github.com/sathiyaanbu/React-Video-browser"
+    github: "https://github.com/sathiyaanbu/React-Video-browser",
+    demo: null
   }
 ];
 

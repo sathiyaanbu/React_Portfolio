@@ -21,9 +21,9 @@ class About extends Component {
             <p>
               A Frontend developer likes to do coding in React and have passion
               to learn new technologies. I decided to apply my love of
-              technology and analytical thinking towards becoming a software
-              engineer. I'm currently a frontend developer specializing in
-              JavaScript. Good team player as well as in independent work.
+              technology and analytical thinking towards the software devepment.
+              I'm currently a frontend developer specializing in JavaScript.
+              Good team player as well as independent in work.
             </p>
             <p>
               Apart from technology more interest to do gardening, photgraphy,
