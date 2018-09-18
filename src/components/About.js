@@ -37,7 +37,7 @@ class About extends Component {
               </a>
             </p>
             <p>
-              You can take a look of my resume{" "}
+              You can take a look of my{" "}
               <a href="https://docs.google.com/document/d/e/2PACX-1vTdP1ztgxpy45aldyq-oNbQCFFNsVphyZ7SfqjOip_n1UpED_SAg3w6qaB0HGd3-JZncoRp2EsPEXN1/pub">
                 Resume
               </a>
