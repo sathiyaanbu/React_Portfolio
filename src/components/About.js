@@ -36,6 +36,12 @@ class About extends Component {
                 LinkedIn
               </a>
             </p>
+            <p>
+              You can take a look of my resume{" "}
+              <a href="https://docs.google.com/document/d/e/2PACX-1vTdP1ztgxpy45aldyq-oNbQCFFNsVphyZ7SfqjOip_n1UpED_SAg3w6qaB0HGd3-JZncoRp2EsPEXN1/pub">
+                Resume
+              </a>
+            </p>
             <p>Thanks for visiting!</p>
           </div>
         </section>
