@@ -32,13 +32,21 @@ class About extends Component {
             </p>
             <p>
               If you'd like to get in touch, message me on{" "}
-              <a href="https://www.linkedin.com/in/sathiya-anbu-0831b526/">
+              <a
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://www.linkedin.com/in/sathiya-anbu-0831b526/"
+              >
                 LinkedIn
               </a>
             </p>
             <p>
               You can take a look of my{" "}
-              <a href="https://docs.google.com/document/d/e/2PACX-1vTdP1ztgxpy45aldyq-oNbQCFFNsVphyZ7SfqjOip_n1UpED_SAg3w6qaB0HGd3-JZncoRp2EsPEXN1/pub">
+              <a
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://docs.google.com/document/d/e/2PACX-1vTdP1ztgxpy45aldyq-oNbQCFFNsVphyZ7SfqjOip_n1UpED_SAg3w6qaB0HGd3-JZncoRp2EsPEXN1/pub"
+              >
                 Resume
               </a>
             </p>
